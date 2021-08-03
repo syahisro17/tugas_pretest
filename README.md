@@ -1,7 +1,7 @@
 aplikasi app_nodejs
 
 1.install node js
-2.install github
+2.install git
 3.buat package.json
 ubah file "name": "app_nodejs",
   "version": "1.0.0",
